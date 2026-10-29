@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=600&size=20&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=Go%20%C2%B7%20Python%20%E5%BC%80%E5%8F%91%E8%80%85;%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E7%88%B1%E5%A5%BD%E8%80%85;%E8%87%AA%E6%89%98%E7%AE%A1%E5%B7%A5%E5%85%B7%E5%BB%BA%E9%80%A0%E8%80%85" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=600&size=20&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=AI%20%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88;Go%20%C2%B7%20Python%20%E5%BC%80%E5%8F%91%E8%80%85;%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E7%88%B1%E5%A5%BD%E8%80%85;%E8%87%AA%E6%89%98%E7%AE%A1%E5%B7%A5%E5%85%B7%E5%BB%BA%E9%80%A0%E8%80%85" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ## 👨‍💻 关于我
 
-- 💼 **身份** — 开发者 · 自托管工具作者
+- 💼 **身份** — AI 开发工程师 · 自托管工具作者
 - 🛠️ **技术栈** — Go · Python
 - 🔐 **方向** — 网络安全
 - 🌱 **在做** — 把常用的运维、云资源管理需求做成开箱即用的自托管工具
